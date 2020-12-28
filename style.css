@@ -1,0 +1,129 @@
+body{
+	background-color:#AACFCF;;
+	margin:0;
+
+
+}
+h1{
+	 font-family: 'Dancing Script', cursive;
+	color:#10375C;;
+	font-size: 90px;
+	
+}
+h2{
+	font-family: 'Josefin Sans', sans-serif;
+	color:#10375C;;
+	font-size: 40px;
+}
+p{
+	font-family: 'Jua', sans-serif;
+	font-size:20px;
+}
+
+.fotodila1{
+	width: 80px;
+	height:80px;
+	position:absolute;
+	left:120px;
+	top:40px;
+	border: solid 3px;
+	border-color: #10375C;;
+	border-radius:50%;
+	
+}
+a:link {
+	text-decoration: none;
+	color:#10375C;;
+  }
+  
+  a:visited {
+	text-decoration: none;
+	color:#10375C;;
+  }
+  
+  a:hover {
+	text-decoration: underline;
+	color:#10375C;;
+  }
+  
+  a:active {
+	text-decoration: underline;
+	color:#10375C;;
+  }
+.style {
+	background-color:#8DB1AB;;
+	height:840px;
+	
+}
+.style ul li {
+	display:inline-block;
+	padding-top:70px;
+	padding-right: 13px;
+	font-family: 'Jua', sans-serif;
+	color:#10375C;;
+	font-size:16px;
+	text-decoration: none;	
+}
+.style2{
+	background-color:#8DB1AB;;
+	height:250px;
+	
+}
+.style2 ul li{
+	display:inline-block;
+	padding:20px;
+	font-family: 'Jua', sans-serif;
+	color:#10375C;;
+	font-size:20px;
+	text-decoration: none;
+
+}
+.gambar{
+	position: relatives;
+	padding-left:390px;
+
+}
+.gambar2{
+	position:absolute;
+	top: 260px;
+	right:400px;
+	width: 200px;
+	height:200px;
+}
+.fotodila{
+	border-radius:50%;
+	padding-top:4px;
+	position:relative;
+	left:530px;
+	border: solid 4px;
+	border-color: #C3EDEA;;
+}
+
+
+hr{
+	border-style: dotted none none ;
+	border-width : 18px;
+	width:15%;
+	border-color:#F0F0F0;;
+}
+table{
+	margin-left:100px;
+	margin-right:80px;
+
+}
+.tabel1{
+	padding-left:730px;
+	padding-top:80px;
+	font-family: 'Jua', sans-serif;
+	color:#10375C;;
+	
+}
+
+.pendidikan{
+	width: 250px;
+	border-radius:50%;
+	height: 250px;
+	margin-left:20px;
+	border: solid 3px;
+	border-color:white;
+}
